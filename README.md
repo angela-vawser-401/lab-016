@@ -7,8 +7,6 @@
 
 ### Author: Angela Vawser
 
-[To the docs!](https://docs.mongodb.com/manual/aggregation/)
-
 ### Links & Resources
 * [submission PR](https://github.com/lab-009-dylan-angela/ripe-banana/pull/1)
 * [travis](https://travis-ci.com/lab-009-dylan-angela/ripe-banana)
