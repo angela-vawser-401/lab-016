@@ -8,8 +8,8 @@
 ### Author: Angela Vawser
 
 ### Links & Resources
-* [submission PR](https://github.com/lab-009-dylan-angela/ripe-banana/pull/1)
-* [travis](https://travis-ci.com/lab-009-dylan-angela/ripe-banana)
+* [submission PR](https://github.com/angela-vawser-401/lab-016/pull/1)
+* [travis](https://travis-ci.com/angela-vawser-401/lab-016)
 
 #### Running the App
 * `npm start`
